@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prem Vishwakarma
+# Hi 👋, I'm Prem
 
 ### Senior Full Stack .NET Developer | Azure | Terraform | Docker | Cloud-Native Learning Journey
 
@@ -11,8 +11,8 @@ Currently focused on evolving into a **Cloud-Native .NET Technical Lead / Soluti
 ## 🚀 About Me
 
 * 💼 9+ years in enterprise software development
-* 🔭 Working with **ASP.NET Core, Web API, Angular, Azure**
-* 🌱 Currently learning **Terraform, Docker, Kubernetes**
+* 🔭 Working with **ASP.NET Core, Web API, Angular, Azure,Terraform, Docker, Kubernetes**
+* 🌱 Currently learning **React**
 * ☁️ Building expertise in **Cloud-Native .NET Architecture**
 * 🎯 Goal: Become a **Cloud Technical Lead / Solution Architect**
 
